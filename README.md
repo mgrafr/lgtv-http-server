@@ -9,6 +9,7 @@ index.js à placer dans node_module/lgtv
 ## Installation
 
 `npm install lgtv` 
+placer index.js dans node_modules/lgtv
 
 
 
