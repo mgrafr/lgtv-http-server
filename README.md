@@ -1,7 +1,8 @@
 # Description
-adaptation du script de  Danovadia/lgtv-http-server 
-pour une utilisation avec Domoticz
-voir le site domo-site.fr
+a partir  du script de  Danovadia/lgtv-http-server <br>
+pour une utilisation avec Domoticz:<br>
+index.js à placer dans node_module/lgtv
+
 
 # LGTV
 
